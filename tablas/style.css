@@ -1,0 +1,91 @@
+body {
+    font-family: Verdana, sans-serif;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+thead th {
+    padding: 30px;
+    font-size: 25px;
+    background-color: #00FF7F;
+    /* Verde suave para las cabeceras */
+    color: black;
+}
+
+td,
+th {
+    border: 1px solid black;
+}
+
+
+
+/* Estilo para cada módulo */
+.LMSGI {
+    background-color: #FFB6C1;
+    /* Rosa claro */
+}
+
+.BD {
+    background-color: #e2d798;
+    /* Amarillo dorado */
+}
+
+.P_ED {
+    background-color: #00b88a;
+    /* Azul claro */
+}
+
+.SI {
+    background-color: #FFFF00;
+    /* Amarillo */
+}
+
+.AN {
+    background-color: #FFA500;
+    /* Naranja */
+}
+
+.TUT {
+    background-color: #008cff;
+    /* Amarillo */
+}
+
+.DIW {
+    background-color: #f57e53;
+    /* Rojo oscuro */
+}
+
+.IPO {
+    background-color: #ff2600;
+    /* Rojo tomate */
+}
+
+/* Estilo para las horas */
+.hores td {
+    font-size: 20px;
+    padding: 10px;
+    width: 180px;
+}
+
+.hores {
+    background-color: #F0F8FF;
+    /* Azul claro para las horas */
+}
+
+/* Cambiar la alineación del texto */
+table {
+    text-align: center;
+}
+
+#descans {
+    font-size: 20px;
+    padding: 15px;
+
+}  
+html{
+    font-family: Verdana;
+}
